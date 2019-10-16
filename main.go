@@ -3,6 +3,7 @@ package main
 import (
 //	"github.com/facebookincubator/ent"
 "github.com/bsdpunk/crime/ent"
+"github.com/bsdpunk/crime/ent/migrate"
 "github.com/facebookincubator/ent/dialect/sql"
 "log"
 )
